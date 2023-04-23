@@ -313,5 +313,9 @@
 			"Name": "SoundFields",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Mac",
+		"Windows"
 	]
 }
