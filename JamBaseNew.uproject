@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.2",
+	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -311,6 +311,99 @@
 		},
 		{
 			"Name": "SoundFields",
+			"Enabled": false
+		},
+		{
+			"Name": "N10XSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "WorldPartitionHLODUtilities",
+			"Enabled": false
+		},
+		{
+			"Name": "OpenImageDenoise",
+			"Enabled": false
+		},
+		{
+			"Name": "EnvironmentQueryEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosCloth",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosClothEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "ACLPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "CustomMeshComponent",
+			"Enabled": false
+		},
+		{
+			"Name": "InputDebugging",
+			"Enabled": false
+		},
+		{
+			"Name": "LocalizableMessage",
+			"Enabled": false
+		},
+		{
+			"Name": "MsQuic",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		},
+		{
+			"Name": "PortableObjectFileDataSource",
+			"Enabled": false
+		},
+		{
+			"Name": "Synthesis",
+			"Enabled": false
+		},
+		{
+			"Name": "TraceUtilities",
+			"Enabled": false
+		},
+		{
+			"Name": "VisualStudioCodeSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "AnimationSharing",
+			"Enabled": false
+		},
+		{
+			"Name": "BlendSpaceMotionAnalysis",
+			"Enabled": false
+		},
+		{
+			"Name": "CharacterAI",
+			"Enabled": false
+		},
+		{
+			"Name": "ControlRigSpline",
+			"Enabled": false
+		},
+		{
+			"Name": "IKRig",
+			"Enabled": false
+		},
+		{
+			"Name": "AnimationData",
+			"Enabled": false
+		},
+		{
+			"Name": "ControlRig",
 			"Enabled": false
 		}
 	],
