@@ -4,6 +4,9 @@ Distribution/
 # are you serious UE5
 Platforms/HoloLens/
 
+# Houdini
+backup/
+
 # Substance Designer
 .autosave
 
